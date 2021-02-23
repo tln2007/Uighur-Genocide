@@ -1,0 +1,67 @@
+body {
+  background-color: red;
+  padding: 0px;
+  margin: 0px;
+  position: fixed;
+  font-family: 'Fjalla One', sans-serif;
+  color: white;
+  text-align: center;
+  font-size: 50px;
+}
+
+.navbar {
+  display: inline-block;
+  margin-left: 1050px;
+  font-size: 30px;
+  word-spacing: 15px;
+}
+
+a {
+  color: white;
+}
+
+.tab:link {
+  text-decoration: none;
+}
+
+#active {
+  padding-bottom: 4px;
+  border-bottom: 2px solid yellow;
+}
+
+#about {
+  color: yellow;
+  text-align: center;
+}
+
+#resources {
+  background-color: red;
+}
+
+#who {
+  color: white;
+  margin-left: 40px;
+  margin-right: 20px;
+  text-align: justify;
+  font-size: 18px;
+  font-family: 'Lato', sans-serif;
+}
+
+#what {
+  color: white;
+  margin-left: 40px;
+  margin-right: 20px;
+  text-align: justify;
+  font-size: 18px;
+  font-family: 'Lato', sans-serif;
+}
+
+#links {
+  color: white;
+  margin-left: 40px;
+  margin-right: 20px;
+  text-align: center;
+  word-spacing: 100px;
+  font-size: 30px;
+  font-family: 'Lato', sans-serif;
+}
